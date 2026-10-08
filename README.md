@@ -382,6 +382,7 @@ This collection includes:
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Heroku](https://www.heroku.com/)
 - [Amazon AWS](https://aws.amazon.com/)
+- [Prisma Compute](https://www.prisma.io/compute)
 
 ### Lead Generation
 - [Proof](https://useproof.com/)
@@ -536,6 +537,7 @@ This collection includes:
 ### Backend Services
 - [Airtable](https://airtable.com/)
 - [Firebase](https://firebase.google.com/)
+- [Prisma Postgres](https://www.prisma.io/postgres)
 - [Supabase](https://supabase.com/)
 
 ---
